@@ -3,7 +3,7 @@
 ![](https://files.catbox.moe/9lr3jx.svg)
 
 # Description 📑
-**Faker** It's a tool for fast fake name generator! Created with the purpose of training what I've been learning with **Python!** If you made it this far, don't forget to leave your star ( ⭐ ) so that more people can get here. You can se more at: https://replit.com/@CollenMenezes/Faker <br> Follow me at:
+**Faker** It's a tool for fast fake name generator! Created with the purpose of training what I've been learning with **Python!** If you made it this far, don't forget to leave your star ( ⭐ ) so that more people can get here. You can see more at: https://replit.com/@CollenMenezes/Faker <br> Follow me at:
 
 <lu>
     <li>
