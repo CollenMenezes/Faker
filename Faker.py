@@ -1,16 +1,13 @@
 #!/bin/python3
 
+import random
 import requests
 import time
 import os
 
-#USE OTHER OF THESE TOKENS IF IT DOESN'T WORK!
+tokens = ["1027|Ilt503Xop3YsrzmKn4sPhp0qgRR8dTcP","1026|QyWHiHrXq2zA0Xr8VX8eiv3iVjdSn2GO","1029|CJsTqd8HPbnKbVMhaBe2BDzaOIkJHqv7","1030|uvi0GjBl1XgoYuxa2ftGPumpQzAfwim9","1031|IJT47bKeNtsEdtiLOC6unqUep4Pj6e0q"]
 
-_TOKEN_ = "1027|Ilt503Xop3YsrzmKn4sPhp0qgRR8dTcP"
-#_TOKEN_ = "1026|QyWHiHrXq2zA0Xr8VX8eiv3iVjdSn2GO"
-#_TOKEN_ = "1029|CJsTqd8HPbnKbVMhaBe2BDzaOIkJHqv7"
-#_TOKEN_ = "1030|uvi0GjBl1XgoYuxa2ftGPumpQzAfwim9"
-#_TOKEN_ = "1031|IJT47bKeNtsEdtiLOC6unqUep4Pj6e0q"
+_TOKEN_ = random.choice(tokens)
 
 
 def main():
